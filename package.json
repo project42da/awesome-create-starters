@@ -1,0 +1,11 @@
+{
+  "name": "awesome-create-starters",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/update-content.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "create-jest",
+    "description": "Create a new Jest project",
+    "npm": "https://www.npmjs.com/package/create-jest",
+    "homepage": "https://github.com/jestjs/jest#readme"
+  },
+  {
+    "name": "create-hash",
+    "description": "create hashes for browserify",
+    "npm": "https://www.npmjs.com/package/create-hash",
+    "homepage": "https://github.com/crypto-browserify/createHash"
+  },
+  {
+    "name": "create-error-class",
+    "description": "Create Error classes",
+    "npm": "https://www.npmjs.com/package/create-error-class",
+    "homepage": "https://github.com/floatdrop/create-error-class"
+  },
+  {
+    "name": "@lerna/create",
+    "description": "Create a new lerna-managed package",
+    "npm": "https://www.npmjs.com/package/@lerna/create",
+    "homepage": "https://lerna.js.org"
+  },
+  {
+    "name": "create-expo-app",
+    "description": "Create universal Expo apps",
+    "npm": "https://www.npmjs.com/package/create-expo-app",
+    "homepage": "https://docs.expo.dev"
+  },
+  {
+    "name": "inferno-create-element",
+    "description": "Provides methods to create Inferno VNodes",
+    "npm": "https://www.npmjs.com/package/inferno-create-element",
+    "homepage": "https://github.com/infernojs/inferno#readme"
+  },
+  {
+    "name": "create",
+    "description": "You probably meant `npm create`, not `npx create`. ❌",
+    "npm": "https://www.npmjs.com/package/create",
+    "homepage": "https://github.com/JoshuaKGoldberg/bingo#readme"
+  },
+  {
+    "name": "create-next-app",
+    "description": "Create Next.js-powered React apps with one command",
+    "npm": "https://www.npmjs.com/package/create-next-app",
+    "homepage": "https://github.com/vercel/next.js#readme"
+  },
+  {
+    "name": "create-react-app",
+    "description": "Create React apps with no build configuration.",
+    "npm": "https://www.npmjs.com/package/create-react-app",
+    "homepage": "https://github.com/facebook/create-react-app#readme"
+  },
+  {
+    "name": "@storybook/preset-create-react-app",
+    "description": "Storybook for Create React App preset",
+    "npm": "https://www.npmjs.com/package/@storybook/preset-create-react-app",
+    "homepage": "https://github.com/storybookjs/storybook/tree/next/code/presets/create-react-app"
+  },
+  {
+    "name": "create-gatsby",
+    "description": "Create Gatsby apps in an interactive CLI experience that does the plumbing for you.",
+    "npm": "https://www.npmjs.com/package/create-gatsby",
+    "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/create-gatsby#readme"
+  },
+  {
+    "name": "http-errors",
+    "description": "Create HTTP error objects",
+    "npm": "https://www.npmjs.com/package/http-errors",
+    "homepage": "https://github.com/jshttp/http-errors#readme"
+  },
+  {
+    "name": "@aws-sdk/util-create-request",
+    "description": "[![NPM version](https://img.shields.io/npm/v/@aws-sdk/util-create-request/latest.svg)](https://www.npmjs.com/package/@aws-sdk/util-create-request) [![NPM downloads](https://img.shields.io/npm/dm/@aws-sdk/util-create-request.svg)](https://www.npmjs.com/pac",
+    "npm": "https://www.npmjs.com/package/@aws-sdk/util-create-request",
+    "homepage": "https://github.com/aws/aws-sdk-js-v3/tree/main/packages/util-create-request"
+  },
+  {
+    "name": "etag",
+    "description": "Create simple HTTP ETags",
+    "npm": "https://www.npmjs.com/package/etag",
+    "homepage": "https://github.com/jshttp/etag#readme"
+  },
+  {
+    "name": "create-platformatic",
+    "description": "Create platformatic application interactive tool",
+    "npm": "https://www.npmjs.com/package/create-platformatic",
+    "homepage": "https://github.com/platformatic/platformatic#readme"
+  },
+  {
+    "name": "create-torrent",
+    "description": "Create .torrent files",
+    "npm": "https://www.npmjs.com/package/create-torrent",
+    "homepage": "https://github.com/webtorrent/create-torrent#readme"
+  },
+  {
+    "name": "create-ts-index",
+    "description": "Automatic create index.ts file",
+    "npm": "https://www.npmjs.com/package/create-ts-index",
+    "homepage": "https://github.com/imjuni/create-ts-index#readme"
+  },
+  {
+    "name": "@types/create-react-class",
+    "description": "TypeScript definitions for create-react-class",
+    "npm": "https://www.npmjs.com/package/@types/create-react-class",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/create-react-class"
+  },
+  {
+    "name": "p-defer",
+    "description": "Create a deferred promise",
+    "npm": "https://www.npmjs.com/package/p-defer",
+    "homepage": "https://github.com/sindresorhus/p-defer#readme"
+  },
+  {
+    "name": "content-disposition",
+    "description": "Create and parse Content-Disposition header",
+    "npm": "https://www.npmjs.com/package/content-disposition",
+    "homepage": "https://github.com/jshttp/content-disposition#readme"
+  },
+  {
+    "name": "create-point-cb",
+    "description": "Create a point from a DOM event",
+    "npm": "https://www.npmjs.com/package/create-point-cb",
+    "homepage": ""
+  },
+  {
+    "name": "@types/create-hmac",
+    "description": "TypeScript definitions for create-hmac",
+    "npm": "https://www.npmjs.com/package/@types/create-hmac",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/create-hmac"
+  },
+  {
+    "name": "@types/create-hash",
+    "description": "TypeScript definitions for create-hash",
+    "npm": "https://www.npmjs.com/package/@types/create-hash",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/create-hash"
+  },
+  {
+    "name": "@eslint/create-config",
+    "description": "Utility to create ESLint config files.",
+    "npm": "https://www.npmjs.com/package/@eslint/create-config",
+    "homepage": "https://eslint.org"
+  },
+  {
+    "name": "array-uniq",
+    "description": "Create an array without duplicates",
+    "npm": "https://www.npmjs.com/package/array-uniq",
+    "homepage": "https://github.com/sindresorhus/array-uniq#readme"
+  },
+  {
+    "name": "create-rstack",
+    "description": "Create a new Rstack project",
+    "npm": "https://www.npmjs.com/package/create-rstack",
+    "homepage": "https://github.com/rspack-contrib/create-rstack#readme"
+  },
+  {
+    "name": "terminal-link",
+    "description": "Create clickable links in the terminal",
+    "npm": "https://www.npmjs.com/package/terminal-link",
+    "homepage": "https://github.com/sindresorhus/terminal-link#readme"
+  },
+  {
+    "name": "@rgba-image/create-image",
+    "description": "Create an RGBA image compatible with ImageData",
+    "npm": "https://www.npmjs.com/package/@rgba-image/create-image",
+    "homepage": "https://github.com/rgba-image/create-image#readme"
+  },
+  {
+    "name": "@markuplint/create-rule-helper",
+    "description": "Create rule helper",
+    "npm": "https://www.npmjs.com/package/@markuplint/create-rule-helper",
+    "homepage": "https://github.com/markuplint/markuplint#readme"
+  },
+  {
+    "name": "cordova-create",
+    "description": "Apache Cordova create module. Creates new project from default or template",
+    "npm": "https://www.npmjs.com/package/cordova-create",
+    "homepage": "https://github.com/apache/cordova-create#readme"
+  },
+  {
+    "name": "create-expo",
+    "description": "Create universal Expo apps",
+    "npm": "https://www.npmjs.com/package/create-expo",
+    "homepage": "https://docs.expo.dev"
+  },
+  {
+    "name": "aggregate-error",
+    "description": "Create an error from multiple errors",
+    "npm": "https://www.npmjs.com/package/aggregate-error",
+    "homepage": "https://github.com/sindresorhus/aggregate-error#readme"
+  },
+  {
+    "name": "create-docusaurus",
+    "description": "Create Docusaurus apps easily.",
+    "npm": "https://www.npmjs.com/package/create-docusaurus",
+    "homepage": "https://github.com/facebook/docusaurus#readme"
+  },
+  {
+    "name": "content-type",
+    "description": "Create and parse HTTP Content-Type header",
+    "npm": "https://www.npmjs.com/package/content-type",
+    "homepage": "https://github.com/jshttp/content-type#readme"
+  },
+  {
+    "name": "@pnpm/create-cafs-store",
+    "description": "Create a CAFS store controller",
+    "npm": "https://www.npmjs.com/package/@pnpm/create-cafs-store",
+    "homepage": "https://github.com/pnpm/pnpm/blob/main/store/create-cafs-store#readme"
+  },
+  {
+    "name": "lodash.create",
+    "description": "The lodash method `_.create` exported as a module.",
+    "npm": "https://www.npmjs.com/package/lodash.create",
+    "homepage": "https://lodash.com/"
+  },
+  {
+    "name": "eslint-config-react-app",
+    "description": "ESLint configuration used by Create React App",
+    "npm": "https://www.npmjs.com/package/eslint-config-react-app",
+    "homepage": "https://github.com/facebook/create-react-app#readme"
+  },
+  {
+    "name": "boxen",
+    "description": "Create boxes in the terminal",
+    "npm": "https://www.npmjs.com/package/boxen",
+    "homepage": "https://github.com/sindresorhus/boxen#readme"
+  },
+  {
+    "name": "create-check",
+    "description": "Create a GitHub check + annotation.",
+    "npm": "https://www.npmjs.com/package/create-check",
+    "homepage": "https://github.com/hipstersmoothie/create-check#readme"
+  },
+  {
+    "name": "react-dev-utils",
+    "description": "webpack utilities used by Create React App",
+    "npm": "https://www.npmjs.com/package/react-dev-utils",
+    "homepage": "https://github.com/facebook/create-react-app#readme"
+  },
+  {
+    "name": "hastscript",
+    "description": "hast utility to create trees",
+    "npm": "https://www.npmjs.com/package/hastscript",
+    "homepage": "https://github.com/syntax-tree/hastscript#readme"
+  },
+  {
+    "name": "create-thenable",
+    "description": "Create a thenable for a given Promise prototype",
+    "npm": "https://www.npmjs.com/package/create-thenable",
+    "homepage": "https://github.com/bendrucker/create-thenable#readme"
+  },
+  {
+    "name": "babel-preset-react-app",
+    "description": "Babel preset used by Create React App",
+    "npm": "https://www.npmjs.com/package/babel-preset-react-app",
+    "homepage": "https://github.com/facebook/create-react-app#readme"
+  },
+  {
+    "name": "create-graphback",
+    "description": "Create production-ready GraphQL servers using Graphback",
+    "npm": "https://www.npmjs.com/package/create-graphback",
+    "homepage": "https://github.com/aerogear/graphback/tree/master/packages/create-graphback#readme"
+  },
+  {
+    "name": "@ant-design/create-react-context",
+    "description": "A fork of create-react-context in MIT license",
+    "npm": "https://www.npmjs.com/package/@ant-design/create-react-context",
+    "homepage": "https://github.com/ant-design/create-react-context#readme"
+  },
+  {
+    "name": "@tsconfig/create-react-app",
+    "description": "A base TSConfig for working with Create React App.",
+    "npm": "https://www.npmjs.com/package/@tsconfig/create-react-app",
+    "homepage": "https://github.com/tsconfig/bases#readme"
+  },
+  {
+    "name": "react-scripts",
+    "description": "Configuration and scripts for Create React App.",
+    "npm": "https://www.npmjs.com/package/react-scripts",
+    "homepage": "https://github.com/facebook/create-react-app#readme"
+  },
+  {
+    "name": "err-code",
+    "description": "Create an error with a code",
+    "npm": "https://www.npmjs.com/package/err-code",
+    "homepage": "https://github.com/IndigoUnited/js-err-code#readme"
+  },
+  {
+    "name": "create-server",
+    "description": "Create a pre-configured HTTP server",
+    "npm": "https://www.npmjs.com/package/create-server",
+    "homepage": "https://github.com/primus/create-server"
+  },
+  {
+    "name": "p-cancelable",
+    "description": "Create a promise that can be canceled",
+    "npm": "https://www.npmjs.com/package/p-cancelable",
+    "homepage": "https://github.com/sindresorhus/p-cancelable#readme"
+  },
+  {
+    "name": "create-turbo",
+    "description": "Create a new Turborepo",
+    "npm": "https://www.npmjs.com/package/create-turbo",
+    "homepage": "https://turbo.build/repo"
+  },
+  {
+    "name": "@isaacs/cliui",
+    "description": "easily create complex multi-column command-line-interfaces",
+    "npm": "https://www.npmjs.com/package/@isaacs/cliui",
+    "homepage": "https://github.com/yargs/cliui#readme"
+  },
+  {
+    "name": "vfile-message",
+    "description": "vfile utility to create a virtual message",
+    "npm": "https://www.npmjs.com/package/vfile-message",
+    "homepage": "https://github.com/vfile/vfile-message#readme"
+  },
+  {
+    "name": "cliui",
+    "description": "easily create complex multi-column command-line-interfaces",
+    "npm": "https://www.npmjs.com/package/cliui",
+    "homepage": "https://github.com/yargs/cliui#readme"
+  },
+  {
+    "name": "jest-create-mock-instance",
+    "description": "Create class mock instances easily with Jest",
+    "npm": "https://www.npmjs.com/package/jest-create-mock-instance",
+    "homepage": ""
+  },
+  {
+    "name": "inferno-create-class",
+    "description": "Provides a helper to create Inferno Components without needing ES2015",
+    "npm": "https://www.npmjs.com/package/inferno-create-class",
+    "homepage": "https://github.com/infernojs/inferno#readme"
+  },
+  {
+    "name": "create-react-router",
+    "description": "Create a new React Router app",
+    "npm": "https://www.npmjs.com/package/create-react-router",
+    "homepage": "https://reactrouter.com"
+  },
+  {
+    "name": "create-codepen",
+    "description": "Create CodePen with API",
+    "npm": "https://www.npmjs.com/package/create-codepen",
+    "homepage": "https://github.com/Mister-Hope/create-codepen"
+  },
+  {
+    "name": "data-uri-to-buffer",
+    "description": "Create an ArrayBuffer instance from a Data URI string",
+    "npm": "https://www.npmjs.com/package/data-uri-to-buffer",
+    "homepage": "https://github.com/TooTallNate/proxy-agents#readme"
+  },
+  {
+    "name": "@types/create-error",
+    "description": "TypeScript definitions for create-error",
+    "npm": "https://www.npmjs.com/package/@types/create-error",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/create-error"
+  },
+  {
+    "name": "@shopify/create-app",
+    "description": "A CLI tool to create a new Shopify app.",
+    "npm": "https://www.npmjs.com/package/@shopify/create-app",
+    "homepage": "https://github.com/Shopify/cli#readme"
+  },
+  {
+    "name": "@pnpm/crypto.base32-hash",
+    "description": "Create a base32 hash",
+    "npm": "https://www.npmjs.com/package/@pnpm/crypto.base32-hash",
+    "homepage": "https://github.com/pnpm/pnpm/blob/main/packages/crypto.base32-hash#readme"
+  },
+  {
+    "name": "octokit-plugin-create-pull-request",
+    "description": "Octokit plugin to create a pull request with multiple file changes",
+    "npm": "https://www.npmjs.com/package/octokit-plugin-create-pull-request",
+    "homepage": "https://github.com/gr2m/octokit-plugin-create-pull-request#readme"
+  },
+  {
+    "name": "react-style-singleton",
+    "description": "Just create a single stylesheet...",
+    "npm": "https://www.npmjs.com/package/react-style-singleton",
+    "homepage": "https://github.com/theKashey/react-style-singleton#readme"
+  },
+  {
+    "name": "create-remix",
+    "description": "Create a new Remix app",
+    "npm": "https://www.npmjs.com/package/create-remix",
+    "homepage": "https://remix.run"
+  },
+  {
+    "name": "minipass-pipeline",
+    "description": "create a pipeline of streams using Minipass",
+    "npm": "https://www.npmjs.com/package/minipass-pipeline",
+    "homepage": ""
+  },
+  {
+    "name": "create-context-state",
+    "description": "Create a context hook and provider for managing the state of your react application",
+    "npm": "https://www.npmjs.com/package/create-context-state",
+    "homepage": "https://github.com/remirror/remirror/tree/HEAD/packages/create-context-state"
+  },
+  {
+    "name": "@paljs/create",
+    "description": "create new project from examples",
+    "npm": "https://www.npmjs.com/package/@paljs/create",
+    "homepage": "https://paljs.com/"
+  },
+  {
+    "name": "create-hono",
+    "description": "Create a Hono application from starter templates.",
+    "npm": "https://www.npmjs.com/package/create-hono",
+    "homepage": "https://honojs.dev"
+  },
+  {
+    "name": "@liff/create-shortcut-on-home-screen",
+    "description": "@liff/create-shortcut-on-home-screen",
+    "npm": "https://www.npmjs.com/package/@liff/create-shortcut-on-home-screen",
+    "homepage": ""
+  },
+  {
+    "name": "create-electron-app",
+    "description": "Create Electron App",
+    "npm": "https://www.npmjs.com/package/create-electron-app",
+    "homepage": ""
+  },
+  {
+    "name": "create-validator-ts",
+    "description": "Create JSON Schema validator from TypeScript.",
+    "npm": "https://www.npmjs.com/package/create-validator-ts",
+    "homepage": "https://github.com/azu/create-validator-ts"
+  },
+  {
+    "name": "create-require",
+    "description": "Polyfill for Node.js module.createRequire (<= v12.2.0)",
+    "npm": "https://www.npmjs.com/package/create-require",
+    "homepage": "https://github.com/nuxt-contrib/create-require#readme"
+  },
+  {
+    "name": "create-nuxt",
+    "description": "Create a Nuxt app in seconds",
+    "npm": "https://www.npmjs.com/package/create-nuxt",
+    "homepage": "https://github.com/nuxt/cli#readme"
+  },
+  {
+    "name": "quansync",
+    "description": "Create sync/async APIs with usable logic",
+    "npm": "https://www.npmjs.com/package/quansync",
+    "homepage": "https://github.com/quansync-dev/quansync#readme"
+  },
+  {
+    "name": "@vue/eslint-config-prettier",
+    "description": "eslint-config-prettier for create-vue",
+    "npm": "https://www.npmjs.com/package/@vue/eslint-config-prettier",
+    "homepage": "https://github.com/vuejs/eslint-config-prettier#readme"
+  },
+  {
+    "name": "@ama-sdk/create",
+    "description": "Create a new SDK",
+    "npm": "https://www.npmjs.com/package/@ama-sdk/create",
+    "homepage": "https://amadeusitgroup.github.io/otter/"
+  },
+  {
+    "name": "pdf-lib",
+    "description": "Create and modify PDF files with JavaScript",
+    "npm": "https://www.npmjs.com/package/pdf-lib",
+    "homepage": "https://pdf-lib.js.org/"
+  },
+  {
+    "name": "create-listening-server",
+    "description": "Promise-based API to create listening `http.Server` instances.",
+    "npm": "https://www.npmjs.com/package/create-listening-server",
+    "homepage": "https://github.com/AviVahl/create-listening-server#readme"
+  },
+  {
+    "name": "amp-create-callback",
+    "description": "create-callback function part of http://amp.ampersandjs.com.",
+    "npm": "https://www.npmjs.com/package/amp-create-callback",
+    "homepage": "http://amp.ampersandjs.com/#amp-create-callback"
+  },
+  {
+    "name": "@poppinss/exception",
+    "description": "Utility to create custom exceptions",
+    "npm": "https://www.npmjs.com/package/@poppinss/exception",
+    "homepage": "https://github.com/poppinss/exception#readme"
+  },
+  {
+    "name": "create-medusa-app",
+    "description": "Create a Medusa project using a single command.",
+    "npm": "https://www.npmjs.com/package/create-medusa-app",
+    "homepage": "https://github.com/medusajs/medusa#readme"
+  },
+  {
+    "name": "@craco/craco",
+    "description": "Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app.",
+    "npm": "https://www.npmjs.com/package/@craco/craco",
+    "homepage": "https://craco.js.org"
+  },
+  {
+    "name": "@babel/helper-define-polyfill-provider",
+    "description": "Babel helper to create your own polyfill provider",
+    "npm": "https://www.npmjs.com/package/@babel/helper-define-polyfill-provider",
+    "homepage": "https://github.com/babel/babel-polyfills#readme"
+  },
+  {
+    "name": "create-knapsack",
+    "description": "Create & Setup Knapsack Workspaces",
+    "npm": "https://www.npmjs.com/package/create-knapsack",
+    "homepage": "https://github.com/knapsack-labs/app-monorepo#readme"
+  },
+  {
+    "name": "create-file-list",
+    "description": "create FileList",
+    "npm": "https://www.npmjs.com/package/create-file-list",
+    "homepage": "https://github.com/fisker/create-file-list#readme"
+  },
+  {
+    "name": "create-amplify",
+    "description": "create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`.",
+    "npm": "https://www.npmjs.com/package/create-amplify",
+    "homepage": ""
+  },
+  {
+    "name": "@o3r/create",
+    "description": "Create a new Otter based application",
+    "npm": "https://www.npmjs.com/package/@o3r/create",
+    "homepage": "https://amadeusitgroup.github.io/otter/"
+  },
+  {
+    "name": "create-create",
+    "description": "Tool for making Node create- tools",
+    "npm": "https://www.npmjs.com/package/create-create",
+    "homepage": ""
+  },
+  {
+    "name": "uniqs",
+    "description": "Tiny utility to create unions and de-duplicated lists",
+    "npm": "https://www.npmjs.com/package/uniqs",
+    "homepage": "https://github.com/fgnass/uniqs"
+  },
+  {
+    "name": "create-output-stream",
+    "description": "Create an fs.writeableStream that won't error if the directory does not exist.",
+    "npm": "https://www.npmjs.com/package/create-output-stream",
+    "homepage": "https://github.com/jprichardson/create-output-stream#readme"
+  },
+  {
+    "name": "create-nuxt-app",
+    "description": "Create a Nuxt app in seconds",
+    "npm": "https://www.npmjs.com/package/create-nuxt-app",
+    "homepage": "https://github.com/nuxt/cli#readme"
+  },
+  {
+    "name": "@ungap/create-content",
+    "description": "A cross browser utility to create HTML or SVG runtime content",
+    "npm": "https://www.npmjs.com/package/@ungap/create-content",
+    "homepage": "https://github.com/ungap/create-content#readme"
+  },
+  {
+    "name": "immer",
+    "description": "Create your next immutable state by mutating the current one",
+    "npm": "https://www.npmjs.com/package/immer",
+    "homepage": "https://github.com/immerjs/immer#readme"
+  },
+  {
+    "name": "fd-slicer",
+    "description": "safely create multiple ReadStream or WriteStream objects from the same file descriptor",
+    "npm": "https://www.npmjs.com/package/fd-slicer",
+    "homepage": "https://github.com/andrewrk/node-fd-slicer#readme"
+  },
+  {
+    "name": "create-rspeedy",
+    "description": "Create Rspeedy-powered ReactLynx apps with one command",
+    "npm": "https://www.npmjs.com/package/create-rspeedy",
+    "homepage": "https://github.com/lynx-family/lynx-stack#readme"
+  },
+  {
+    "name": "create-html-element",
+    "description": "Create a HTML element string",
+    "npm": "https://www.npmjs.com/package/create-html-element",
+    "homepage": "https://github.com/sindresorhus/create-html-element#readme"
+  },
+  {
+    "name": "create-stylesheet",
+    "description": "Dynamically create a stylesheet",
+    "npm": "https://www.npmjs.com/package/create-stylesheet",
+    "homepage": "https://github.com/mzabriskie/create-stylesheet#readme"
+  },
+  {
+    "name": "slash-create",
+    "description": "Create and sync Discord slash commands!",
+    "npm": "https://www.npmjs.com/package/slash-create",
+    "homepage": "https://slash-create.js.org/"
+  },
+  {
+    "name": "react-joyride",
+    "description": "Create guided tours for your apps",
+    "npm": "https://www.npmjs.com/package/react-joyride",
+    "homepage": "https://react-joyride.com/"
+  },
+  {
+    "name": "create-vxrn",
+    "description": "```sh npm create vxrn ```",
+    "npm": "https://www.npmjs.com/package/create-vxrn",
+    "homepage": ""
+  },
+  {
+    "name": "create-mastra",
+    "description": "Create Mastra apps with one command",
+    "npm": "https://www.npmjs.com/package/create-mastra",
+    "homepage": ""
+  },
+  {
+    "name": "create-stream-server",
+    "description": "create multiple stream servers easily",
+    "npm": "https://www.npmjs.com/package/create-stream-server",
+    "homepage": "https://github.com/mqttjs/create-stream-server"
+  },
+  {
+    "name": "create-umi",
+    "description": "create-umi",
+    "npm": "https://www.npmjs.com/package/create-umi",
+    "homepage": "https://github.com/umijs/umi/tree/master/packages/create-umi#readme"
+  },
+  {
+    "name": "repeat-element",
+    "description": "Create an array by repeating the given value n times.",
+    "npm": "https://www.npmjs.com/package/repeat-element",
+    "homepage": "https://github.com/jonschlinkert/repeat-element"
+  },
+  {
+    "name": "pptxgenjs",
+    "description": "Create JavaScript PowerPoint Presentations",
+    "npm": "https://www.npmjs.com/package/pptxgenjs",
+    "homepage": "https://gitbrent.github.io/PptxGenJS/"
+  },
+  {
+    "name": "array-union",
+    "description": "Create an array of unique values, in order, from the input arrays",
+    "npm": "https://www.npmjs.com/package/array-union",
+    "homepage": "https://github.com/sindresorhus/array-union#readme"
+  },
+  {
+    "name": "create-t3-app",
+    "description": "Create web application with the t3 stack",
+    "npm": "https://www.npmjs.com/package/create-t3-app",
+    "homepage": "https://github.com/t3-oss/create-t3-app#readme"
+  },
+  {
+    "name": "@form-create/component-subform",
+    "description": "@form-create 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-subform",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "vinyl-file",
+    "description": "Create a vinyl file from an actual file",
+    "npm": "https://www.npmjs.com/package/vinyl-file",
+    "homepage": "https://github.com/sindresorhus/vinyl-file#readme"
+  },
+  {
+    "name": "@modelcontextprotocol/create-server",
+    "description": "CLI tool to create new MCP servers",
+    "npm": "https://www.npmjs.com/package/@modelcontextprotocol/create-server",
+    "homepage": "https://modelcontextprotocol.io"
+  },
+  {
+    "name": "get-npm-tarball-url",
+    "description": "Create the tarball URL of a npm package",
+    "npm": "https://www.npmjs.com/package/get-npm-tarball-url",
+    "homepage": "https://github.com/pnpm/get-npm-tarball-url#readme"
+  },
+  {
+    "name": "expo-linking",
+    "description": "Create and open deep links universally",
+    "npm": "https://www.npmjs.com/package/expo-linking",
+    "homepage": "https://docs.expo.dev/versions/latest/sdk/linking"
+  },
+  {
+    "name": "hast-util-parse-selector",
+    "description": "hast utility to create an element from a simple CSS selector",
+    "npm": "https://www.npmjs.com/package/hast-util-parse-selector",
+    "homepage": "https://github.com/syntax-tree/hast-util-parse-selector#readme"
+  },
+  {
+    "name": "create-rsbuild",
+    "description": "Create a new Rsbuild project",
+    "npm": "https://www.npmjs.com/package/create-rsbuild",
+    "homepage": "https://rsbuild.dev"
+  },
+  {
+    "name": "@agoric/create-dapp",
+    "description": "Create an Agoric Javascript smart contract application",
+    "npm": "https://www.npmjs.com/package/@agoric/create-dapp",
+    "homepage": "https://github.com/Agoric/agoric-sdk#readme"
+  },
+  {
+    "name": "extension-create",
+    "description": "The Extension.js create step",
+    "npm": "https://www.npmjs.com/package/extension-create",
+    "homepage": "https://github.com/cezaraugusto/extension#readme"
+  },
+  {
+    "name": "create-checkly",
+    "description": "Checkly Create CLI",
+    "npm": "https://www.npmjs.com/package/create-checkly",
+    "homepage": "https://github.com/checkly/checkly-cli#readme"
+  },
+  {
+    "name": "create-ton",
+    "description": "Tool to quickly create TON projects",
+    "npm": "https://www.npmjs.com/package/create-ton",
+    "homepage": ""
+  },
+  {
+    "name": "create-tamagui",
+    "description": "```sh npm create tamagui ```",
+    "npm": "https://www.npmjs.com/package/create-tamagui",
+    "homepage": ""
+  },
+  {
+    "name": "create-sst",
+    "description": "Create SST apps",
+    "npm": "https://www.npmjs.com/package/create-sst",
+    "homepage": "https://sst.dev"
+  },
+  {
+    "name": "@react-pdf/renderer",
+    "description": "Create PDF files on the browser and server",
+    "npm": "https://www.npmjs.com/package/@react-pdf/renderer",
+    "homepage": "https://github.com/diegomura/react-pdf#readme"
+  },
+  {
+    "name": "@ardatan/aggregate-error",
+    "description": "Create an error from multiple errors",
+    "npm": "https://www.npmjs.com/package/@ardatan/aggregate-error",
+    "homepage": "https://github.com/sindresorhus/aggregate-error#readme"
+  },
+  {
+    "name": "create-slidev",
+    "description": "Create starter template for Slidev",
+    "npm": "https://www.npmjs.com/package/create-slidev",
+    "homepage": "https://sli.dev"
+  },
+  {
+    "name": "ts-custom-error",
+    "description": "Extend native Error to create custom errors",
+    "npm": "https://www.npmjs.com/package/ts-custom-error",
+    "homepage": "https://github.com/adriengibrat/ts-custom-error#readme"
+  },
+  {
+    "name": "cra-template",
+    "description": "The base template for Create React App.",
+    "npm": "https://www.npmjs.com/package/cra-template",
+    "homepage": "https://github.com/facebook/create-react-app#readme"
+  },
+  {
+    "name": "create-hmac",
+    "description": "node style hmacs in the browser",
+    "npm": "https://www.npmjs.com/package/create-hmac",
+    "homepage": "https://github.com/crypto-browserify/createHmac"
+  },
+  {
+    "name": "mkcert",
+    "description": "Create Self Signed Development Certificates",
+    "npm": "https://www.npmjs.com/package/mkcert",
+    "homepage": "https://github.com/Subash/mkcert#readme"
+  },
+  {
+    "name": "create-mud",
+    "description": "Create a new MUD project",
+    "npm": "https://www.npmjs.com/package/create-mud",
+    "homepage": ""
+  },
+  {
+    "name": "@backstage/create-app",
+    "description": "A CLI that helps you create your own Backstage app",
+    "npm": "https://www.npmjs.com/package/@backstage/create-app",
+    "homepage": "https://backstage.io"
+  },
+  {
+    "name": "textdiff-create",
+    "description": "Create lean text diff deltas.",
+    "npm": "https://www.npmjs.com/package/textdiff-create",
+    "homepage": "https://github.com/icflorescu/textdiff-create#readme"
+  },
+  {
+    "name": "create-temp-directory",
+    "description": "Create an empty, unique directory in the current OS's temp directory",
+    "npm": "https://www.npmjs.com/package/create-temp-directory",
+    "homepage": "https://github.com/AviVahl/create-temp-directory#readme"
+  },
+  {
+    "name": "create-rspeedy-canary",
+    "description": "Create Rspeedy-powered ReactLynx apps with one command",
+    "npm": "https://www.npmjs.com/package/create-rspeedy-canary",
+    "homepage": "https://github.com/lynx-family/lynx-stack#readme"
+  },
+  {
+    "name": "create-video",
+    "description": "Create a new Remotion project",
+    "npm": "https://www.npmjs.com/package/create-video",
+    "homepage": "https://remotion.dev/templates"
+  },
+  {
+    "name": "module-not-found-error",
+    "description": "Create a module not found error",
+    "npm": "https://www.npmjs.com/package/module-not-found-error",
+    "homepage": "https://github.com/bendrucker/module-not-found-error"
+  },
+  {
+    "name": "merge-stream",
+    "description": "Create a stream that emits events from multiple other streams",
+    "npm": "https://www.npmjs.com/package/merge-stream",
+    "homepage": "https://github.com/grncdr/merge-stream#readme"
+  },
+  {
+    "name": "serverless-create-global-dynamodb-table-tags",
+    "description": "serverless plugin that would create global dynamodb tables for specified tables",
+    "npm": "https://www.npmjs.com/package/serverless-create-global-dynamodb-table-tags",
+    "homepage": "https://github.com/rrahul963/serverless-create-global-dynamodb-table#readme"
+  },
+  {
+    "name": "typedoc",
+    "description": "Create api documentation for TypeScript projects.",
+    "npm": "https://www.npmjs.com/package/typedoc",
+    "homepage": "https://typedoc.org"
+  },
+  {
+    "name": "@protobuf-ts/plugin-framework",
+    "description": "framework to create protoc plugins",
+    "npm": "https://www.npmjs.com/package/@protobuf-ts/plugin-framework",
+    "homepage": "https://github.com/timostamm/protobuf-ts"
+  },
+  {
+    "name": "module-alias",
+    "description": "Create aliases of directories and register custom module paths",
+    "npm": "https://www.npmjs.com/package/module-alias",
+    "homepage": "https://github.com/ilearnio/module-alias"
+  },
+  {
+    "name": "create-quip-app",
+    "description": "Create Quip apps with no build configuration",
+    "npm": "https://www.npmjs.com/package/create-quip-app",
+    "homepage": "https://github.com/quip/quip-apps#readme"
+  },
+  {
+    "name": "@comunica/actor-query-operation-update-create",
+    "description": "A create query-operation actor",
+    "npm": "https://www.npmjs.com/package/@comunica/actor-query-operation-update-create",
+    "homepage": "https://comunica.dev/"
+  },
+  {
+    "name": "@salesforce/plugin-sobject",
+    "description": "Create objects, fields, tabs, etc",
+    "npm": "https://www.npmjs.com/package/@salesforce/plugin-sobject",
+    "homepage": "https://github.com/salesforcecli/plugin-sobject"
+  },
+  {
+    "name": "create-banner",
+    "description": "Create a banner from a package.json file.",
+    "npm": "https://www.npmjs.com/package/create-banner",
+    "homepage": "https://github.com/fengyuanchen/create-banner/#readme"
+  },
+  {
+    "name": "md5-hex",
+    "description": "Create a MD5 hash with hex encoding",
+    "npm": "https://www.npmjs.com/package/md5-hex",
+    "homepage": "https://github.com/sindresorhus/md5-hex#readme"
+  },
+  {
+    "name": "create-zudoku-app",
+    "description": "Create Zudoku docs site with one command",
+    "npm": "https://www.npmjs.com/package/create-zudoku-app",
+    "homepage": "https://github.com/zuplo/zudoku#readme"
+  },
+  {
+    "name": "create-solid",
+    "description": "Create Solid apps with low configuration",
+    "npm": "https://www.npmjs.com/package/create-solid",
+    "homepage": "https://solid-cli.netlify.app"
+  },
+  {
+    "name": "create-create-app",
+    "description": "Create your own `create-something` app.",
+    "npm": "https://www.npmjs.com/package/create-create-app",
+    "homepage": "https://github.com/uetchy/create-create-app"
+  },
+  {
+    "name": "timeout-signal",
+    "description": "Create an AbortSignal that aborts after a delay",
+    "npm": "https://www.npmjs.com/package/timeout-signal",
+    "homepage": "https://github.com/node-fetch/timeout-signal#readme"
+  },
+  {
+    "name": "@hint/hint-create-element-svg",
+    "description": "Infrom users that they need to use createElementNS to create SVG elements instead of createElement",
+    "npm": "https://www.npmjs.com/package/@hint/hint-create-element-svg",
+    "homepage": "https://webhint.io/"
+  },
+  {
+    "name": "@secretlint/source-creator",
+    "description": "Create SecretLintRawSource from content.",
+    "npm": "https://www.npmjs.com/package/@secretlint/source-creator",
+    "homepage": "https://github.com/secretlint/secretlint/tree/master/packages/@secretlint/source-creator/"
+  },
+  {
+    "name": "create-farm",
+    "description": "Rapidly create a new farm project.",
+    "npm": "https://www.npmjs.com/package/create-farm",
+    "homepage": "https://www.farmfe.org/docs/quick-start#create-a-farm-project"
+  },
+  {
+    "name": "madge",
+    "description": "Create graphs from module dependencies.",
+    "npm": "https://www.npmjs.com/package/madge",
+    "homepage": "https://github.com/pahen/madge"
+  },
+  {
+    "name": "to-object-path",
+    "description": "Create an object path from a list or array of strings.",
+    "npm": "https://www.npmjs.com/package/to-object-path",
+    "homepage": "https://github.com/jonschlinkert/to-object-path"
+  },
+  {
+    "name": "datauri",
+    "description": "Create DataURI scheme easily",
+    "npm": "https://www.npmjs.com/package/datauri",
+    "homepage": "https://github.com/data-uri/datauri#readme"
+  },
+  {
+    "name": "create-rules",
+    "description": "Create rules for MetaFor",
+    "npm": "https://www.npmjs.com/package/create-rules",
+    "homepage": ""
+  },
+  {
+    "name": "@twilio/create-flex-plugin",
+    "description": "Toolkit to create a new Twilio Flex plugin",
+    "npm": "https://www.npmjs.com/package/@twilio/create-flex-plugin",
+    "homepage": "https://github.com/twilio/flex-plugin-builder"
+  },
+  {
+    "name": "@trackunit/create-iris-app-workspace",
+    "description": "The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`.",
+    "npm": "https://www.npmjs.com/package/@trackunit/create-iris-app-workspace",
+    "homepage": ""
+  },
+  {
+    "name": "broccoli-file-creator",
+    "description": "Broccoli plugin to create a file.",
+    "npm": "https://www.npmjs.com/package/broccoli-file-creator",
+    "homepage": "https://github.com/rjackson/broccoli-file-creator#readme"
+  },
+  {
+    "name": "create-el",
+    "description": "Create CSS or JS",
+    "npm": "https://www.npmjs.com/package/create-el",
+    "homepage": "https://github.com/react-atomic/react-atomic-organism#readme"
+  },
+  {
+    "name": "@form-create/component-wangeditor",
+    "description": "@form-create 富文本组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-wangeditor",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "sri-create",
+    "description": "create sri from local file or remote file",
+    "npm": "https://www.npmjs.com/package/sri-create",
+    "homepage": "https://github.com/Youjingyu/sri-create#readme"
+  },
+  {
+    "name": "prebuildify",
+    "description": "Create and package prebuilds for native modules",
+    "npm": "https://www.npmjs.com/package/prebuildify",
+    "homepage": "https://github.com/prebuild/prebuildify"
+  },
+  {
+    "name": "create-zuplo-api",
+    "description": "Create Zuplo API with one command",
+    "npm": "https://www.npmjs.com/package/create-zuplo-api",
+    "homepage": "https://github.com/zuplo/core#readme"
+  },
+  {
+    "name": "@storybook/addon-toolbars",
+    "description": "Create your own toolbar items that control story rendering",
+    "npm": "https://www.npmjs.com/package/@storybook/addon-toolbars",
+    "homepage": "https://github.com/storybookjs/storybook/tree/next/code/addons/toolbars"
+  },
+  {
+    "name": "@vendure/create",
+    "description": "A CLI tool for rapidly scaffolding a new Vendure server application. Heavily inspired by [create-react-app](https://github.com/facebook/create-react-app).",
+    "npm": "https://www.npmjs.com/package/@vendure/create",
+    "homepage": "https://www.vendure.io"
+  },
+  {
+    "name": "create-desktop-shortcuts",
+    "description": "Easy API to create desktop shortcuts with Node",
+    "npm": "https://www.npmjs.com/package/create-desktop-shortcuts",
+    "homepage": "https://github.com/nwutils/create-desktop-shortcuts#readme"
+  },
+  {
+    "name": "react-side-effect",
+    "description": "Create components whose prop changes map to a global side effect",
+    "npm": "https://www.npmjs.com/package/react-side-effect",
+    "homepage": "https://github.com/gaearon/react-side-effect"
+  },
+  {
+    "name": "@types/textdiff-create",
+    "description": "TypeScript definitions for textdiff-create",
+    "npm": "https://www.npmjs.com/package/@types/textdiff-create",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/textdiff-create"
+  },
+  {
+    "name": "@types/create-torrent",
+    "description": "TypeScript definitions for create-torrent",
+    "npm": "https://www.npmjs.com/package/@types/create-torrent",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/create-torrent"
+  },
+  {
+    "name": "create-deepstructure-app",
+    "description": "Create a DeepStructure application",
+    "npm": "https://www.npmjs.com/package/create-deepstructure-app",
+    "homepage": ""
+  },
+  {
+    "name": "vfile-reporter",
+    "description": "vfile utility to create a report for a file",
+    "npm": "https://www.npmjs.com/package/vfile-reporter",
+    "homepage": "https://github.com/vfile/vfile-reporter#readme"
+  },
+  {
+    "name": "unherit",
+    "description": "Create a subclass that can be modified without affecting the super class",
+    "npm": "https://www.npmjs.com/package/unherit",
+    "homepage": "https://github.com/wooorm/unherit#readme"
+  },
+  {
+    "name": "chrome-har",
+    "description": "Create HAR files from Chrome Debugging Protocol data.",
+    "npm": "https://www.npmjs.com/package/chrome-har",
+    "homepage": "https://github.com/sitespeedio/chrome-har"
+  },
+  {
+    "name": "create-event",
+    "description": "Create an event object",
+    "npm": "https://www.npmjs.com/package/create-event",
+    "homepage": "https://github.com/KenanY/create-event#readme"
+  },
+  {
+    "name": "react-clientside-effect",
+    "description": "Create components whose prop changes map to a global side effect",
+    "npm": "https://www.npmjs.com/package/react-clientside-effect",
+    "homepage": "https://github.com/thekashey/react-clientside-effect"
+  },
+  {
+    "name": "unified-args",
+    "description": "create CLIs for unified processors",
+    "npm": "https://www.npmjs.com/package/unified-args",
+    "homepage": "https://github.com/unifiedjs/unified-args#readme"
+  },
+  {
+    "name": "svg-parser",
+    "description": "Create a JSON-friendly object from an SVG string",
+    "npm": "https://www.npmjs.com/package/svg-parser",
+    "homepage": "https://github.com/Rich-Harris/svg-parser#README"
+  },
+  {
+    "name": "rev-hash",
+    "description": "Create a hash for file revving",
+    "npm": "https://www.npmjs.com/package/rev-hash",
+    "homepage": "https://github.com/sindresorhus/rev-hash#readme"
+  },
+  {
+    "name": "create-html",
+    "description": "create the content of an html file with one function call",
+    "npm": "https://www.npmjs.com/package/create-html",
+    "homepage": "https://github.com/sethvincent/create-html#readme"
+  },
+  {
+    "name": "stampit",
+    "description": "Create objects from reusable, composable behaviors.",
+    "npm": "https://www.npmjs.com/package/stampit",
+    "homepage": "https://stampit.js.org"
+  },
+  {
+    "name": "create-qwik",
+    "description": "Interactive CLI for create Qwik projects and adding features.",
+    "npm": "https://www.npmjs.com/package/create-qwik",
+    "homepage": "https://qwik.dev/"
+  },
+  {
+    "name": "randexp",
+    "description": "Create random strings that match a given regular expression.",
+    "npm": "https://www.npmjs.com/package/randexp",
+    "homepage": "http://fent.github.io/randexp.js/"
+  },
+  {
+    "name": "@form-create/component-elm-radio",
+    "description": "@form-create/element-ui 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-elm-radio",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "create-xpub",
+    "description": "Create a BIP32 extended public key",
+    "npm": "https://www.npmjs.com/package/create-xpub",
+    "homepage": "https://github.com/lukechilds/create-xpub#readme"
+  },
+  {
+    "name": "@form-create/component-elm-frame",
+    "description": "@form-create/element-ui 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-elm-frame",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "@form-create/component-elm-select",
+    "description": "@form-create/element-ui 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-elm-select",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "create-haste-app",
+    "description": "Create haste app, hasteJs app generator.",
+    "npm": "https://www.npmjs.com/package/create-haste-app",
+    "homepage": ""
+  },
+  {
+    "name": "compress-create-react-app",
+    "description": "An NPM package for adding post build compression to a create-react-app builds",
+    "npm": "https://www.npmjs.com/package/compress-create-react-app",
+    "homepage": "https://github.com/jnsjknn/compress-create-react-app#readme"
+  },
+  {
+    "name": "regex-not",
+    "description": "Create a javascript regular expression for matching everything except for the given string.",
+    "npm": "https://www.npmjs.com/package/regex-not",
+    "homepage": "https://github.com/jonschlinkert/regex-not"
+  },
+  {
+    "name": "@form-create/component-elm-group",
+    "description": "@form-create/element-ui 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-elm-group",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "@form-create/component-elm-checkbox",
+    "description": "@form-create/element-ui 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-elm-checkbox",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "@form-create/component-elm-upload",
+    "description": "@form-create/element-ui 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-elm-upload",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "@adobe/create-helix-service",
+    "description": "Create Helix Service",
+    "npm": "https://www.npmjs.com/package/@adobe/create-helix-service",
+    "homepage": "https://github.com/adobe/helix-service#readme"
+  },
+  {
+    "name": "@form-create/component-elm-tree",
+    "description": "@form-create/element-ui 内置组件",
+    "npm": "https://www.npmjs.com/package/@form-create/component-elm-tree",
+    "homepage": "http://www.form-create.com"
+  },
+  {
+    "name": "grunt-mkdir",
+    "description": "Create directories with Grunt.",
+    "npm": "https://www.npmjs.com/package/grunt-mkdir",
+    "homepage": "https://github.com/rubenv/grunt-mkdir"
+  },
+  {
+    "name": "create-rspress",
+    "description": "Create a new Rspress project",
+    "npm": "https://www.npmjs.com/package/create-rspress",
+    "homepage": "https://rspress.dev"
+  },
+  {
+    "name": "custom-error-instance",
+    "description": "Create custom JavaScript errors that also match instanceof.",
+    "npm": "https://www.npmjs.com/package/custom-error-instance",
+    "homepage": "https://github.com/Gi60s/custom-error-instance#readme"
+  },
+  {
+    "name": "create-module-federation",
+    "description": "Create a new Module Federation project",
+    "npm": "https://www.npmjs.com/package/create-module-federation",
+    "homepage": "https://github.com/module-federation/core#readme"
+  },
+  {
+    "name": "@semantic-release/changelog",
+    "description": "semantic-release plugin to create or update a changelog file",
+    "npm": "https://www.npmjs.com/package/@semantic-release/changelog",
+    "homepage": "https://github.com/semantic-release/changelog#readme"
+  }
+]
