@@ -35,18 +35,18 @@ Updated daily via GitHub Actions.
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 | [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
-| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
+| [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
+| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
+| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-quip-app](https://www.npmjs.com/package/create-quip-app) | Create Quip apps with no build configuration |
-| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
-| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-farm](https://www.npmjs.com/package/create-farm) | Rapidly create a new farm project. |
+| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
+| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 
 ## 📚 Full List
 
