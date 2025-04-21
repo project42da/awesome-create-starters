@@ -14,8 +14,8 @@ Updated daily via GitHub Actions.
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
-| [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
+| [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
@@ -36,17 +36,17 @@ Updated daily via GitHub Actions.
 | [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
+| [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
-| [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
-| [create-rspeedy](https://www.npmjs.com/package/create-rspeedy) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [create-rspeedy](https://www.npmjs.com/package/create-rspeedy) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-quip-app](https://www.npmjs.com/package/create-quip-app) | Create Quip apps with no build configuration |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
+| [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-farm](https://www.npmjs.com/package/create-farm) | Rapidly create a new farm project. |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 
 ## 📚 Full List
 
