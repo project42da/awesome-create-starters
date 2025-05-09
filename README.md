@@ -32,21 +32,21 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
+| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
-| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
-| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-js-app-scripts](https://www.npmjs.com/package/create-js-app-scripts) | Configuration and scripts for Create JS App |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
-| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
+| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
-| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-quip-app](https://www.npmjs.com/package/create-quip-app) | Create Quip apps with no build configuration |
+| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 
 ## 📚 Full List
 
