@@ -14,8 +14,8 @@ Updated daily via GitHub Actions.
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
-| [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
+| [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
@@ -31,8 +31,8 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
-| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
+| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
