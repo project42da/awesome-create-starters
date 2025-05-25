@@ -31,10 +31,10 @@ Updated daily via GitHub Actions.
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
-| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
+| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
+| [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
 | [create-docusaurus-openapi](https://www.npmjs.com/package/create-docusaurus-openapi) | Create Docusaurus apps easily. |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
@@ -44,8 +44,8 @@ Updated daily via GitHub Actions.
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
 | [create-js-app-scripts](https://www.npmjs.com/package/create-js-app-scripts) | Configuration and scripts for Create JS App |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
+| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-packer](https://www.npmjs.com/package/create-packer) | Quickly create project templates。 |
 
 ## 📚 Full List
