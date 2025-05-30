@@ -25,10 +25,10 @@ Updated daily via GitHub Actions.
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
-| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
+| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
@@ -38,15 +38,15 @@ Updated daily via GitHub Actions.
 | [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
-| [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
+| [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
+| [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
-| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [@capacitor/create-app](https://www.npmjs.com/package/@capacitor/create-app) | Create a new Capacitor project |
-| [create-quip-app](https://www.npmjs.com/package/create-quip-app) | Create Quip apps with no build configuration |
+| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
+| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 
 ## 📚 Full List
 
