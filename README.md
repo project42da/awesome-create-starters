@@ -33,19 +33,19 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
-| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-docusaurus-openapi](https://www.npmjs.com/package/create-docusaurus-openapi) | Create Docusaurus apps easily. |
+| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
-| [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
 | [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-steedos-app](https://www.npmjs.com/package/create-steedos-app) | Create steedos apps with one command |
+| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [@capacitor/create-app](https://www.npmjs.com/package/@capacitor/create-app) | Create a new Capacitor project |
 
 ## 📚 Full List
