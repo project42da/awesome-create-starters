@@ -17,8 +17,8 @@ Updated daily via GitHub Actions.
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
-| [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
+| [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
@@ -42,8 +42,8 @@ Updated daily via GitHub Actions.
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-ton](https://www.npmjs.com/package/create-ton) | Tool to quickly create TON projects |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
+| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
