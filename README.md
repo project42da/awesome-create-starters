@@ -21,8 +21,8 @@ Updated daily via GitHub Actions.
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
+| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
@@ -37,14 +37,14 @@ Updated daily via GitHub Actions.
 | [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
-| [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
-| [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
-| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
+| [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
+| [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
+| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-quip-app](https://www.npmjs.com/package/create-quip-app) | Create Quip apps with no build configuration |
 | [@capacitor/create-app](https://www.npmjs.com/package/@capacitor/create-app) | Create a new Capacitor project |
 
