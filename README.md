@@ -28,12 +28,12 @@ Updated daily via GitHub Actions.
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
+| [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
-| [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
