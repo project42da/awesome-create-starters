@@ -20,12 +20,12 @@ Updated daily via GitHub Actions.
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
-| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
+| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
-| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
+| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
@@ -34,9 +34,9 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
-| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
+| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
+| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
