@@ -14,8 +14,8 @@ Updated daily via GitHub Actions.
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
-| [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
+| [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
@@ -33,20 +33,20 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
-| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
+| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
-| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
 | [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
-| [@capacitor/create-app](https://www.npmjs.com/package/@capacitor/create-app) | Create a new Capacitor project |
 | [create-qwik](https://www.npmjs.com/package/create-qwik) | Interactive CLI for create Qwik projects and adding features. |
+| [@capacitor/create-app](https://www.npmjs.com/package/@capacitor/create-app) | Create a new Capacitor project |
 
 ## 📚 Full List
 
