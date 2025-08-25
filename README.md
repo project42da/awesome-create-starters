@@ -22,8 +22,8 @@ Updated daily via GitHub Actions.
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
-| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
+| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
@@ -46,7 +46,7 @@ Updated daily via GitHub Actions.
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
 | [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [create-steedos-app](https://www.npmjs.com/package/create-steedos-app) | Create steedos apps with one command |
 
 ## 📚 Full List
 
