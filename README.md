@@ -29,24 +29,24 @@ Updated daily via GitHub Actions.
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
-| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
+| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
-| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
-| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
+| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
+| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
+| [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
 | [create-steedos-app](https://www.npmjs.com/package/create-steedos-app) | Create steedos apps with one command |
-| [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
-| [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
+| [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [create-t3-app](https://www.npmjs.com/package/create-t3-app) | Create web application with the t3 stack |
 
 ## 📚 Full List
 
