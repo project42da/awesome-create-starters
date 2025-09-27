@@ -33,20 +33,20 @@ Updated daily via GitHub Actions.
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
+| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
-| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
-| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
+| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
+| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
 | [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 
 ## 📚 Full List
 
