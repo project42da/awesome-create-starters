@@ -25,8 +25,8 @@ Updated daily via GitHub Actions.
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
-| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
@@ -45,8 +45,8 @@ Updated daily via GitHub Actions.
 | [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
+| [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-ness-app](https://www.npmjs.com/package/create-ness-app) | Create Ness.js application using create-ness-app cli. |
-| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 
 ## 📚 Full List
 
