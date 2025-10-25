@@ -24,6 +24,7 @@ Updated daily via GitHub Actions.
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
+| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
@@ -32,21 +33,20 @@ Updated daily via GitHub Actions.
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
-| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
-| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
+| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
-| [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
+| [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
+| [create-serverless-stack](https://www.npmjs.com/package/create-serverless-stack) | Create Serverless Stack apps. |
 | [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [create-module-federation](https://www.npmjs.com/package/create-module-federation) | Create a new Module Federation project |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [create-steedos-app](https://www.npmjs.com/package/create-steedos-app) | Create steedos apps with one command |
 
 ## 📚 Full List
 
