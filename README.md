@@ -17,8 +17,8 @@ Updated daily via GitHub Actions.
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
-| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
+| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
@@ -30,14 +30,14 @@ Updated daily via GitHub Actions.
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
-| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
+| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
+| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
-| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-blade](https://www.npmjs.com/package/create-blade) | Create a new Blade project |
@@ -45,8 +45,8 @@ Updated daily via GitHub Actions.
 | [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [create-module-federation](https://www.npmjs.com/package/create-module-federation) | Create a new Module Federation project |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 
 ## 📚 Full List
 
