@@ -15,8 +15,8 @@ Updated daily via GitHub Actions.
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
-| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
+| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
@@ -26,8 +26,8 @@ Updated daily via GitHub Actions.
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
-| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
+| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
