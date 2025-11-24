@@ -30,9 +30,9 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
+| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
-| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
@@ -44,9 +44,9 @@ Updated daily via GitHub Actions.
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
-| [create-agentuity](https://www.npmjs.com/package/create-agentuity) | Create a new Agentuity project |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
-| [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
+| [create-agentuity](https://www.npmjs.com/package/create-agentuity) | Create a new Agentuity project |
+| [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
 
 ## 📚 Full List
 
