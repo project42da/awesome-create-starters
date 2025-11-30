@@ -18,18 +18,18 @@ Updated daily via GitHub Actions.
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
-| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
+| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
-| [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
+| [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
-| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
-| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
+| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
+| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
