@@ -29,11 +29,11 @@ Updated daily via GitHub Actions.
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
+| [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
@@ -44,9 +44,9 @@ Updated daily via GitHub Actions.
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-steedos-app](https://www.npmjs.com/package/create-steedos-app) | Create steedos apps with one command |
-| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [create-rwsdk](https://www.npmjs.com/package/create-rwsdk) | Create RedwoodSDK projects |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [create-bunext-app](https://www.npmjs.com/package/create-bunext-app) | Create Bunext App |
 
 ## 📚 Full List
 
