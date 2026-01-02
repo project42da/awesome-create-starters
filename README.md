@@ -13,8 +13,8 @@ Updated daily via GitHub Actions.
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
-| [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
+| [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
@@ -29,8 +29,8 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
-| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
+| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
@@ -44,9 +44,9 @@ Updated daily via GitHub Actions.
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
-| [@vidavidorra/create-project](https://www.npmjs.com/package/@vidavidorra/create-project) | Interactively create a GitHub project |
 | [@corva/create-app](https://www.npmjs.com/package/@corva/create-app) | Create an app to use it in CORVA.AI |
-| [create-stencil](https://www.npmjs.com/package/create-stencil) | Quickly create a new stencil component project: npm init stencil |
+| [@vidavidorra/create-project](https://www.npmjs.com/package/@vidavidorra/create-project) | Interactively create a GitHub project |
+| [create-rwsdk](https://www.npmjs.com/package/create-rwsdk) | Create RedwoodSDK projects |
 
 ## 📚 Full List
 
