@@ -33,20 +33,20 @@ Updated daily via GitHub Actions.
 | [create-kimesh](https://www.npmjs.com/package/create-kimesh) | Create a new Kimesh project |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
+| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
-| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-agentuity](https://www.npmjs.com/package/create-agentuity) | Create a new Agentuity project |
+| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
-| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
-| [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
+| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [create-nextspark-app](https://www.npmjs.com/package/create-nextspark-app) | Create a new NextSpark SaaS project |
 
 ## 📚 Full List
 
