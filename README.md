@@ -14,38 +14,38 @@ Updated daily via GitHub Actions.
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
-| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
+| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
-| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
+| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
+| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
-| [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-kimesh](https://www.npmjs.com/package/create-kimesh) | Create a new Kimesh project |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
-| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
+| [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
+| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
+| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
-| [create-agentuity](https://www.npmjs.com/package/create-agentuity) | Create a new Agentuity project |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
+| [create-agentuity](https://www.npmjs.com/package/create-agentuity) | Create a new Agentuity project |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 
 ## 📚 Full List
