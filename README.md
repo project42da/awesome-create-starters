@@ -36,9 +36,9 @@ Updated daily via GitHub Actions.
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
+| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
