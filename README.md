@@ -33,8 +33,8 @@ Updated daily via GitHub Actions.
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [create-kimesh](https://www.npmjs.com/package/create-kimesh) | Create a new Kimesh project |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
+| [create-kimesh](https://www.npmjs.com/package/create-kimesh) | Create a new Kimesh project |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
@@ -44,9 +44,9 @@ Updated daily via GitHub Actions.
 | [create-expo-cljs-app](https://www.npmjs.com/package/create-expo-cljs-app) | Create a react native application with Expo and Shadow-CLJS! |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [create-bubblelab-app](https://www.npmjs.com/package/create-bubblelab-app) | Create BubbleLab AI agent applications with one command |
-| [create-jant](https://www.npmjs.com/package/create-jant) | Create a new Jant project |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
+| [create-jant](https://www.npmjs.com/package/create-jant) | Create a new Jant project |
+| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 
 ## 📚 Full List
 
