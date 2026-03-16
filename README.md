@@ -25,12 +25,12 @@ Updated daily via GitHub Actions.
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
-| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
+| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
-| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
+| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
@@ -42,8 +42,8 @@ Updated daily via GitHub Actions.
 | [create-expo-cljs-app](https://www.npmjs.com/package/create-expo-cljs-app) | Create a react native application with Expo and Shadow-CLJS! |
 | [create-commandkit](https://www.npmjs.com/package/create-commandkit) | Effortlessly create a CommandKit project |
 | [create-auto-app](https://www.npmjs.com/package/create-auto-app) | Create Auto Engineer apps with no configuration |
-| [create-vuetify](https://www.npmjs.com/package/create-vuetify) | Create a new Vuetify project |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
+| [create-vuetify](https://www.npmjs.com/package/create-vuetify) | Create a new Vuetify project |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-moria](https://www.npmjs.com/package/create-moria) | Create a new MoriaJS project |
 | [create-nuxt-app](https://www.npmjs.com/package/create-nuxt-app) | Create a Nuxt app in seconds |
