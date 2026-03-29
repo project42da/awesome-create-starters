@@ -29,23 +29,23 @@ Updated daily via GitHub Actions.
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
-| [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-commandkit](https://www.npmjs.com/package/create-commandkit) | Effortlessly create a CommandKit project |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
 | [create-tsdown](https://www.npmjs.com/package/create-tsdown) | Create a new tsdown project |
 | [create-vuetify](https://www.npmjs.com/package/create-vuetify) | Create a new Vuetify project |
 | [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
+| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
 | [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 
 ## 📚 Full List
