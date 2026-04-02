@@ -10,42 +10,42 @@ Updated daily via GitHub Actions.
 | [create-jest](https://www.npmjs.com/package/create-jest) | Create a new Jest project |
 | [create-next-app](https://www.npmjs.com/package/create-next-app) | Create Next.js-powered React apps with one command |
 | [create-expo-app](https://www.npmjs.com/package/create-expo-app) | Create universal Expo apps |
-| [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
+| [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
+| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
-| [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
+| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
-| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
-| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
-| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
-| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
-| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
+| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
+| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
+| [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-commandkit](https://www.npmjs.com/package/create-commandkit) | Effortlessly create a CommandKit project |
-| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
+| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
+| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
+| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 | [create-tsdown](https://www.npmjs.com/package/create-tsdown) | Create a new tsdown project |
 | [create-vuetify](https://www.npmjs.com/package/create-vuetify) | Create a new Vuetify project |
-| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
-| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [@types/create-torrent](https://www.npmjs.com/package/@types/create-torrent) | TypeScript definitions for create-torrent |
-| [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
-| [create-solid](https://www.npmjs.com/package/create-solid) | Create Solid apps with low configuration |
+| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
+| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
 
 ## 📚 Full List
