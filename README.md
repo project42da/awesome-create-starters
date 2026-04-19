@@ -28,12 +28,12 @@ Updated daily via GitHub Actions.
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
-| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-docusaurus-openapi](https://www.npmjs.com/package/create-docusaurus-openapi) | Create Docusaurus apps easily. |
+| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-moose-app](https://www.npmjs.com/package/create-moose-app) | Create Moose apps with one command |
+| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-js-app-scripts](https://www.npmjs.com/package/create-js-app-scripts) | Configuration and scripts for Create JS App |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
