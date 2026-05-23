@@ -12,8 +12,8 @@ Updated daily via GitHub Actions.
 | [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-expo-app](https://www.npmjs.com/package/create-expo-app) | Create universal Expo apps |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
-| [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
+| [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
@@ -28,9 +28,9 @@ Updated daily via GitHub Actions.
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
+| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
-| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-revealui](https://www.npmjs.com/package/create-revealui) | Create a new RevealUI project |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
@@ -38,14 +38,14 @@ Updated daily via GitHub Actions.
 | [create-eth](https://www.npmjs.com/package/create-eth) | Create a Scaffold-ETH-2 app |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
-| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
+| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
+| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
 | [create-playcademy](https://www.npmjs.com/package/create-playcademy) | Create a new Playcademy project |
-| [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
-| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [@corva/create-app](https://www.npmjs.com/package/@corva/create-app) | Create an app to use it in CORVA.AI |
 | [create-mikro](https://www.npmjs.com/package/create-mikro) | Create a new Mikro.js project (alias for create-mikrojs) |
-| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
+| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 
 ## 📚 Full List
