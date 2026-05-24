@@ -19,8 +19,8 @@ Updated daily via GitHub Actions.
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
+| [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
@@ -28,10 +28,10 @@ Updated daily via GitHub Actions.
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
-| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
-| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
+| [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-revealui](https://www.npmjs.com/package/create-revealui) | Create a new RevealUI project |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
@@ -39,14 +39,14 @@ Updated daily via GitHub Actions.
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
-| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
+| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [create-playcademy](https://www.npmjs.com/package/create-playcademy) | Create a new Playcademy project |
-| [@corva/create-app](https://www.npmjs.com/package/@corva/create-app) | Create an app to use it in CORVA.AI |
-| [create-mikro](https://www.npmjs.com/package/create-mikro) | Create a new Mikro.js project (alias for create-mikrojs) |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-nosa](https://www.npmjs.com/package/create-nosa) | Create a new nosa project |
+| [create-mikro](https://www.npmjs.com/package/create-mikro) | Create a new Mikro.js project (alias for create-mikrojs) |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
+| [@corva/create-app](https://www.npmjs.com/package/@corva/create-app) | Create an app to use it in CORVA.AI |
 
 ## 📚 Full List
 
