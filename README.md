@@ -29,14 +29,14 @@ Updated daily via GitHub Actions.
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
-| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-ampless](https://www.npmjs.com/package/create-ampless) | Create a new ampless project |
+| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
-| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
+| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
+| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-rspress](https://www.npmjs.com/package/create-rspress) | Create a new Rspress project |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-nosa](https://www.npmjs.com/package/create-nosa) | Create a new nosa project |
