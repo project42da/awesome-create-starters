@@ -27,26 +27,26 @@ Updated daily via GitHub Actions.
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-ampless](https://www.npmjs.com/package/create-ampless) | Create a new ampless project |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
-| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
-| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
+| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
+| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
-| [create-rspress](https://www.npmjs.com/package/create-rspress) | Create a new Rspress project |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
+| [create-rspress](https://www.npmjs.com/package/create-rspress) | Create a new Rspress project |
 | [create-nosa](https://www.npmjs.com/package/create-nosa) | Create a new nosa project |
-| [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
+| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
+| [create-routecraft](https://www.npmjs.com/package/create-routecraft) | Create a new Routecraft project |
 
 ## 📚 Full List
 
