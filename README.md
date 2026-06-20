@@ -31,22 +31,22 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-mindees](https://www.npmjs.com/package/create-mindees) | Create a new MindeesNative app — `npm create mindees@latest`. |
-| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
-| [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
+| [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
+| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
-| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
-| [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
+| [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
+| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
+| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-rspress](https://www.npmjs.com/package/create-rspress) | Create a new Rspress project |
-| [create-nosa](https://www.npmjs.com/package/create-nosa) | Create a new nosa project |
-| [create-mikrojs](https://www.npmjs.com/package/create-mikrojs) | Create a new Mikro.js project (alias for create-mikro) |
-| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-nosa](https://www.npmjs.com/package/create-nosa) | Create a new nosa project |
+| [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
+| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
+| [create-mikrojs](https://www.npmjs.com/package/create-mikrojs) | Create a new Mikro.js project (alias for create-mikro) |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
-| [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 
 ## 📚 Full List
 
