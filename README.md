@@ -29,23 +29,23 @@ Updated daily via GitHub Actions.
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-mindees](https://www.npmjs.com/package/create-mindees) | Create a new MindeesNative app — `npm create mindees@latest`. |
-| [create-ampless](https://www.npmjs.com/package/create-ampless) | Create a new ampless project |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-deepstructure-app](https://www.npmjs.com/package/create-deepstructure-app) | Create a DeepStructure application |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
-| [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
+| [create-ampless](https://www.npmjs.com/package/create-ampless) | Create a new ampless project |
 | [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
+| [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
-| [create-rspress](https://www.npmjs.com/package/create-rspress) | Create a new Rspress project |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
+| [create-rspress](https://www.npmjs.com/package/create-rspress) | Create a new Rspress project |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
-| [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-mikrojs](https://www.npmjs.com/package/create-mikrojs) | Create a new Mikro.js project (alias for create-mikro) |
+| [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 
 ## 📚 Full List
