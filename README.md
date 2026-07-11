@@ -16,9 +16,9 @@ Updated daily via GitHub Actions.
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
+| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
-| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
@@ -36,17 +36,17 @@ Updated daily via GitHub Actions.
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
+| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
 | [create-ampless](https://www.npmjs.com/package/create-ampless) | Create a new ampless project |
-| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
-| [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
+| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 
 ## 📚 Full List
 
