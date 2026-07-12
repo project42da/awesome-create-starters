@@ -11,14 +11,14 @@ Updated daily via GitHub Actions.
 | [create-next-app](https://www.npmjs.com/package/create-next-app) | Create Next.js-powered React apps with one command |
 | [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-expo-app](https://www.npmjs.com/package/create-expo-app) | Create universal Expo apps |
-| [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
+| [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
+| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
@@ -29,9 +29,9 @@ Updated daily via GitHub Actions.
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-mindees](https://www.npmjs.com/package/create-mindees) | Create a new MindeesNative app — `npm create mindees@latest`. |
-| [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-deepstructure-app](https://www.npmjs.com/package/create-deepstructure-app) | Create a DeepStructure application |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
@@ -40,13 +40,13 @@ Updated daily via GitHub Actions.
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
-| [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
+| [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
-| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
-| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
 | [create-ampless](https://www.npmjs.com/package/create-ampless) | Create a new ampless project |
+| [create-xmcp-app](https://www.npmjs.com/package/create-xmcp-app) | Create xmcp apps with one command |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
 
 ## 📚 Full List
 
