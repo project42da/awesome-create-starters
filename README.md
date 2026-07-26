@@ -28,15 +28,14 @@ Updated daily via GitHub Actions.
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
-| [create-deepstructure-app](https://www.npmjs.com/package/create-deepstructure-app) | Create a DeepStructure application |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
+| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
@@ -46,6 +45,7 @@ Updated daily via GitHub Actions.
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-create-x](https://www.npmjs.com/package/create-create-x) | Create your own `create-something` app. A fork of the awesome `create-create-app` |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
+| [create-dmg](https://www.npmjs.com/package/create-dmg) | Create a good-looking DMG for your macOS app in seconds |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 
 ## 📚 Full List
