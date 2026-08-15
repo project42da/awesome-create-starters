@@ -31,8 +31,8 @@ Updated daily via GitHub Actions.
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
-| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-kudzu](https://www.npmjs.com/package/create-kudzu) | Create a Kudzu project |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
@@ -44,8 +44,8 @@ Updated daily via GitHub Actions.
 | [create-mikrojs](https://www.npmjs.com/package/create-mikrojs) | Create a new Mikro.js project (alias for create-mikro) |
 | [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
-| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-weapp-vite](https://www.npmjs.com/package/create-weapp-vite) | create-weapp-vite |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 
 ## 📚 Full List
