@@ -43,10 +43,10 @@ Updated daily via GitHub Actions.
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-mikrojs](https://www.npmjs.com/package/create-mikrojs) | Create a new Mikro.js project (alias for create-mikro) |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [@shopify/create-shop-mini](https://www.npmjs.com/package/@shopify/create-shop-mini) | npm init @shopify/shop-mini | yarn create @shopify/shop-mini | pnpm create @shopify/shop-mini |
 | [create-platformatic](https://www.npmjs.com/package/create-platformatic) | Create platformatic application interactive tool |
 | [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
+| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 
 ## 📚 Full List
 
