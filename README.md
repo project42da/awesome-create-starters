@@ -24,12 +24,12 @@ Updated daily via GitHub Actions.
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
-| [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
+| [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [@rstackjs/create-toolkit](https://www.npmjs.com/package/@rstackjs/create-toolkit) | Create a new Rstack project |
-| [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
+| [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-kudzu](https://www.npmjs.com/package/create-kudzu) | Create a Kudzu project |
 | [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
@@ -42,8 +42,8 @@ Updated daily via GitHub Actions.
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
-| [create-deepspace](https://www.npmjs.com/package/create-deepspace) | Create a new DeepSpace app |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
+| [create-deepspace](https://www.npmjs.com/package/create-deepspace) | Create a new DeepSpace app |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
 | [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
