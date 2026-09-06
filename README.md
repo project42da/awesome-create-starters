@@ -8,8 +8,8 @@ Updated daily via GitHub Actions.
 | Package | Description |
 | ------- | ----------- |
 | [create-jest](https://www.npmjs.com/package/create-jest) | Create a new Jest project |
-| [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-next-app](https://www.npmjs.com/package/create-next-app) | Create Next.js-powered React apps with one command |
+| [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
 | [create-expo-app](https://www.npmjs.com/package/create-expo-app) | Create universal Expo apps |
 | [@openai/create-sites](https://www.npmjs.com/package/@openai/create-sites) | Create ChatGPT Sites projects. |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
@@ -32,21 +32,21 @@ Updated daily via GitHub Actions.
 | [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [create-kudzu](https://www.npmjs.com/package/create-kudzu) | Create a Kudzu project |
-| [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [create-foldkit-app](https://www.npmjs.com/package/create-foldkit-app) | Create Foldkit applications |
+| [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
-| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
+| [create-rspeedy-canary](https://www.npmjs.com/package/create-rspeedy-canary) | Create Rspeedy-powered ReactLynx apps with one command |
 | [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-medusa-app](https://www.npmjs.com/package/create-medusa-app) | Create a Medusa project using a single command. |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
-| [create-deepspace](https://www.npmjs.com/package/create-deepspace) | Create a new DeepSpace app |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
+| [create-deepspace](https://www.npmjs.com/package/create-deepspace) | Create a new DeepSpace app |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 
 ## 📚 Full List
 
