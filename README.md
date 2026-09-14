@@ -27,26 +27,26 @@ Updated daily via GitHub Actions.
 | [@rstackjs/create-toolkit](https://www.npmjs.com/package/@rstackjs/create-toolkit) | Create a new Rstack project |
 | [create-foldkit-app](https://www.npmjs.com/package/create-foldkit-app) | Create Foldkit applications |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
-| [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
-| [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
 | [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
+| [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
+| [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
 | [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
 | [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
+| [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [create-kudzu](https://www.npmjs.com/package/create-kudzu) | Create a Kudzu project |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
-| [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
+| [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
-| [create-steedos-app](https://www.npmjs.com/package/create-steedos-app) | Create steedos apps with one command |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
-| [create-mikrojs](https://www.npmjs.com/package/create-mikrojs) | Create a new Mikro.js project (alias for create-mikro) |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
+| [create-deepspace](https://www.npmjs.com/package/create-deepspace) | Create a new DeepSpace app |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [@shopify/create-shop-mini](https://www.npmjs.com/package/@shopify/create-shop-mini) | npm init @shopify/shop-mini | yarn create @shopify/shop-mini | pnpm create @shopify/shop-mini |
+| [create-prisma](https://www.npmjs.com/package/create-prisma) | Create Prisma 8 projects with first-party templates and great DX. |
 
 ## 📚 Full List
 
