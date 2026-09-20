@@ -15,13 +15,13 @@ Updated daily via GitHub Actions.
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
-| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
+| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
-| [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
-| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
+| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
+| [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [create-foldkit-app](https://www.npmjs.com/package/create-foldkit-app) | Create Foldkit applications |
@@ -40,13 +40,13 @@ Updated daily via GitHub Actions.
 | [create-il-app](https://www.npmjs.com/package/create-il-app) | Create IL project |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
-| [@corva/create-app](https://www.npmjs.com/package/@corva/create-app) | Create an app to use it in CORVA.AI |
 | [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
-| [create-prisma](https://www.npmjs.com/package/create-prisma) | Create Prisma 8 projects with first-party templates and great DX. |
-| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
+| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
+| [create-prisma](https://www.npmjs.com/package/create-prisma) | Create Prisma 8 projects with first-party templates and great DX. |
 | [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
-| [create-mud](https://www.npmjs.com/package/create-mud) | Create a new MUD project |
+| [@corva/create-app](https://www.npmjs.com/package/@corva/create-app) | Create an app to use it in CORVA.AI |
+| [create-steedos-app](https://www.npmjs.com/package/create-steedos-app) | Create steedos apps with one command |
 
 ## 📚 Full List
 
