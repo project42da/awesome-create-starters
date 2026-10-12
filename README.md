@@ -22,20 +22,20 @@ Updated daily via GitHub Actions.
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
-| [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
+| [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
 | [@rstackjs/create-toolkit](https://www.npmjs.com/package/@rstackjs/create-toolkit) | Create a new Rstack project |
-| [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
-| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
+| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
+| [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
-| [create-trestlejs](https://www.npmjs.com/package/create-trestlejs) | Create a conventional TrestleJS application. |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
+| [create-trestlejs](https://www.npmjs.com/package/create-trestlejs) | Create a conventional TrestleJS application. |
 | [create-foldkit-app](https://www.npmjs.com/package/create-foldkit-app) | Create Foldkit applications |
+| [create-qwik](https://www.npmjs.com/package/create-qwik) | Interactive CLI for create Qwik projects and adding features. |
 | [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
-| [create-qwik](https://www.npmjs.com/package/create-qwik) | Interactive CLI for create Qwik projects and adding features. |
 | [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
@@ -44,9 +44,9 @@ Updated daily via GitHub Actions.
 | [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-factory](https://www.npmjs.com/package/create-factory) | Create a Mastra Factory project: an agent-powered software delivery environment built on Mastra. Run `npm create factory` to scaffold and get started. |
 | [@trackunit/create-iris-app-workspace](https://www.npmjs.com/package/@trackunit/create-iris-app-workspace) | The `create-iris-app-workspace` package is a cli tool extending `create-nx-workspace`. |
+| [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
 | [create-slidev](https://www.npmjs.com/package/create-slidev) | Create starter template for Slidev |
-| [@agoric/create-dapp](https://www.npmjs.com/package/@agoric/create-dapp) | Create an Agoric Javascript smart contract application |
 
 ## 📚 Full List
 
