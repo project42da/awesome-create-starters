@@ -18,35 +18,35 @@ Updated daily via GitHub Actions.
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
 | [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
+| [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
 | [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
 | [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
-| [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
 | [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
-| [@openai/create-sites](https://www.npmjs.com/package/@openai/create-sites) | Create ChatGPT Sites projects. |
+| [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
 | [create-trestlejs](https://www.npmjs.com/package/create-trestlejs) | Create a conventional TrestleJS application. |
-| [@rstackjs/create-toolkit](https://www.npmjs.com/package/@rstackjs/create-toolkit) | Create a new Rstack project |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
-| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
-| [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
-| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
+| [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
+| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
+| [@rstackjs/create-toolkit](https://www.npmjs.com/package/@rstackjs/create-toolkit) | Create a new Rstack project |
+| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-qwik](https://www.npmjs.com/package/create-qwik) | Interactive CLI for create Qwik projects and adding features. |
 | [create-remix](https://www.npmjs.com/package/create-remix) | Create a new Remix app |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
 | [create-mindees](https://www.npmjs.com/package/create-mindees) | Create a new MindeesNative app — `npm create mindees@latest`. |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
 | [create-ampless](https://www.npmjs.com/package/create-ampless) | Create a new ampless project |
 | [create-foldkit-app](https://www.npmjs.com/package/create-foldkit-app) | Create Foldkit applications |
-| [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
+| [@openai/create-sites](https://www.npmjs.com/package/@openai/create-sites) | Create ChatGPT Sites projects. |
 | [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
-| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
+| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
 | [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
+| [create-acrylblends](https://www.npmjs.com/package/create-acrylblends) | Create an Acryl app: npm create acrylblends@latest |
 | [@inkeep/create-agents](https://www.npmjs.com/package/@inkeep/create-agents) | Create an Inkeep Agent Framework project |
 | [create-hono](https://www.npmjs.com/package/create-hono) | Create a Hono application from starter templates. |
-| [create-create-app](https://www.npmjs.com/package/create-create-app) | Create your own `create-something` app. |
 
 ## 📚 Full List
 
