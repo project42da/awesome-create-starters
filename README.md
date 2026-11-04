@@ -8,44 +8,44 @@ Updated daily via GitHub Actions.
 | Package | Description |
 | ------- | ----------- |
 | [create-jest](https://www.npmjs.com/package/create-jest) | Create a new Jest project |
-| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-langgraph](https://www.npmjs.com/package/create-langgraph) | Create a new LangGraph project |
-| [create-next-app](https://www.npmjs.com/package/create-next-app) | Create Next.js-powered React apps with one command |
+| [create-expo](https://www.npmjs.com/package/create-expo) | Create universal Expo apps |
 | [create-video](https://www.npmjs.com/package/create-video) | Create a new Remotion project |
+| [create-next-app](https://www.npmjs.com/package/create-next-app) | Create Next.js-powered React apps with one command |
 | [create-expo-app](https://www.npmjs.com/package/create-expo-app) | Compatibility wrapper for create-expo |
 | [@types/create-hash](https://www.npmjs.com/package/@types/create-hash) | TypeScript definitions for create-hash |
-| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
-| [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
 | [create-gatsby](https://www.npmjs.com/package/create-gatsby) | Create Gatsby apps in an interactive CLI experience that does the plumbing for you. |
-| [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
+| [create-react-app](https://www.npmjs.com/package/create-react-app) | Create React apps with no build configuration. |
+| [create-rsbuild](https://www.npmjs.com/package/create-rsbuild) | Create a new Rsbuild project |
 | [@types/create-react-class](https://www.npmjs.com/package/@types/create-react-class) | TypeScript definitions for create-react-class |
+| [create-rstack](https://www.npmjs.com/package/create-rstack) | Create a new Rstack project |
 | [@types/create-hmac](https://www.npmjs.com/package/@types/create-hmac) | TypeScript definitions for create-hmac |
-| [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
 | [create-stx](https://www.npmjs.com/package/create-stx) | Create a new STX application |
-| [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [create-think](https://www.npmjs.com/package/create-think) | Scaffold a new Cloudflare Think agent — npm create think |
+| [create-docusaurus](https://www.npmjs.com/package/create-docusaurus) | Create Docusaurus apps easily. |
+| [@types/create-error](https://www.npmjs.com/package/@types/create-error) | TypeScript definitions for create-error |
 | [@tsconfig/create-react-app](https://www.npmjs.com/package/@tsconfig/create-react-app) | A base TSConfig for working with Create React App. |
 | [@rstackjs/create-toolkit](https://www.npmjs.com/package/@rstackjs/create-toolkit) | Create a new Rstack project |
-| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
-| [create-foldkit-app](https://www.npmjs.com/package/create-foldkit-app) | Create Foldkit applications |
-| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
 | [create-mercato-app](https://www.npmjs.com/package/create-mercato-app) | Create a new Open Mercato application |
-| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
-| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
-| [@openai/create-sites](https://www.npmjs.com/package/@openai/create-sites) | Create ChatGPT Sites projects. |
-| [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
+| [create-context-state](https://www.npmjs.com/package/create-context-state) | Create a context hook and provider for managing the state of your react application |
+| [@shopify/create-app](https://www.npmjs.com/package/@shopify/create-app) | A CLI tool to create a new Shopify app. |
+| [create-foldkit-app](https://www.npmjs.com/package/create-foldkit-app) | Create Foldkit applications |
 | [create-mastra](https://www.npmjs.com/package/create-mastra) | Create Mastra apps with one command |
-| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
-| [create-qwik](https://www.npmjs.com/package/create-qwik) | Interactive CLI for create Qwik projects and adding features. |
+| [@openai/create-sites](https://www.npmjs.com/package/@openai/create-sites) | Create ChatGPT Sites projects. |
+| [create-tldraw](https://www.npmjs.com/package/create-tldraw) | tldraw infinite canvas SDK (create cli). |
+| [create-nuxt](https://www.npmjs.com/package/create-nuxt) | Create a Nuxt app in seconds |
+| [@gjsify/create-app](https://www.npmjs.com/package/@gjsify/create-app) | Create a new Gjsify project |
 | [create-react-router](https://www.npmjs.com/package/create-react-router) | Create a new React Router app |
-| [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
-| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
+| [create-qwik](https://www.npmjs.com/package/create-qwik) | Interactive CLI for create Qwik projects and adding features. |
 | [create-acrylblends](https://www.npmjs.com/package/create-acrylblends) | Create an Acryl app: npm create acrylblends@latest |
-| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
-| [create-graview](https://www.npmjs.com/package/create-graview) | Start a product on Graview: `npm create graview my-app`. The conventional door to `graview create`. |
+| [create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp) | The fastest way to create Solana apps |
+| [create-objectstack](https://www.npmjs.com/package/create-objectstack) | Create a new ObjectStack project — npx create-objectstack |
 | [create-sst](https://www.npmjs.com/package/create-sst) | Create SST apps |
-| [create-electron-app](https://www.npmjs.com/package/create-electron-app) | Create Electron App |
+| [create-amplify](https://www.npmjs.com/package/create-amplify) | create-amplify is a package for scaffolding an Amplify project by running `npm create amplify`. |
 | [@fluid-app/create-portal-app](https://www.npmjs.com/package/@fluid-app/create-portal-app) | Create a new Fluid portal application |
+| [create-graview](https://www.npmjs.com/package/create-graview) | Start a product on Graview: `npm create graview my-app`. The conventional door to `graview create`. |
+| [@corva/create-app](https://www.npmjs.com/package/@corva/create-app) | Create an app to use it in CORVA.AI |
+| [@backstage/create-app](https://www.npmjs.com/package/@backstage/create-app) | A CLI that helps you create your own Backstage app |
 | [create-daloy](https://www.npmjs.com/package/create-daloy) | Scaffold a new DaloyJS project. Run with `pnpm create daloy`, `npm create daloy@latest`, `yarn create daloy`, or `bun create daloy`. |
 
 ## 📚 Full List
